@@ -1,0 +1,30 @@
+[
+	{
+		"tosversion" : "20260923",
+		"name" : "Fps savior",
+		"file" : "fpssavior",
+		"extension" : "ipf",
+		"fileVersion" : "v1.0.3",
+		"releaseTag" : "v1.0.3",
+		"unicode" : "⛄",
+		"description" : "This is an edit version for FPSSavior derived from BlackMages's FPSSavior.",
+		"tags" : [
+			"fps",
+			"ui"
+		]
+	},
+	{
+		"tosversion" : "20260923",
+		"name" : "JoyStick+",
+		"file" : "joystickplus",
+		"extension" : "ipf",
+		"fileVersion" : "v1.0.9",
+		"releaseTag" : "v1.0.9",
+		"unicode" : "⛄",
+		"description" : "There is not much changed, I edited some String so it can pull English text from ITOS patches correctly.",
+		"tags" : [
+			"controller",
+			"joyStick"
+		]
+	}
+]
